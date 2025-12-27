@@ -1,0 +1,39 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "nombre": "Pasta Alfredo con Pollo",
+      "imagen": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/7e918da02773a54eea60d7bf336d6bb6.jpg",
+      "descripcion": "Pasta cremosa bañada en salsa Alfredo, acompañada de jugosos trozos de pollo a la parrilla.",
+      "precio": "C$100"
+    },
+    {
+      "id": 2,
+      "nombre": "Hamburguesa Clásica",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSddjpE64jVcMqw9x270i2vfbklSHIt-LzP7w&s",
+      "descripcion": "Hamburguesa de carne de res con queso, lechuga, tomate y salsa especial de la casa.",
+      "precio": "C$100"
+    },
+    {
+      "id": 3,
+      "nombre": "Ensalada Mediterránea",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKNI_ikNvrwnRTr9Gb4oZNKNmNZmIka42mYA&s",
+      "descripcion": "Mezcla fresca de lechugas, aceitunas, queso feta, tomate cherry y aderezo de limón.",
+      "precio": "C$100"
+    },
+    {
+      "id": 4,
+      "nombre": "Tacos de Camarón",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPmcvW78vtQ4xjINs8onzPQiibCSURG4Hduw&s",
+      "descripcion": "Tacos rellenos de camarones sazonados, col morada y salsa cremosa de chipotle.",
+      "precio": "C$100"
+    },
+    {
+      "id": 5,
+      "nombre": "Pastel de Chocolate",
+      "imagen": "https://www.pequeocio.com/wp-content/uploads/2025/04/receta-tarta-chocolate-1024x768.jpg",
+      "descripcion": "Pastel esponjoso de chocolate con relleno cremoso y cobertura de ganache.",
+      "precio": "C$100"
+    }
+  ]
+}

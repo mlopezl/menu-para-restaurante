@@ -1,0 +1,46 @@
+{
+  "postres": [
+    {
+      "id": 1,
+      "nombre": "Cheesecake de Fresa",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOXW6f_J7xw2EGMnS6o_r-qiWitHGLDQVr-w&s",
+      "descripcion": "Pastel cremoso de queso sobre base de galleta, cubierto con salsa natural de fresa.",
+      "precio": "C$100"
+    },
+    {
+      "id": 2,
+      "nombre": "Brownie con Helado",
+      "imagen": "https://www.johaprato.com/files/brownie_y_helado.jpg",
+      "descripcion": "Brownie de chocolate tibio acompañado de una bola de helado de vainilla.",
+      "precio": "C$100"
+    },
+    {
+      "id": 3,
+      "nombre": "Flan de Caramelo",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw92KV9a7Xw1Z3os4RQ4O_Y6QkfxEpSrFXMA&s",
+      "descripcion": "Flan tradicional de textura suave con caramelo líquido hecho en casa.",
+      "precio": "C$100"
+    },
+    {
+      "id": 4,
+      "nombre": "Tiramisú",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO52IX84vNlSrZ057ebgaIdxblx470Kt4Pfg&s",
+      "descripcion": "Clásico postre italiano con capas de bizcocho, café y crema de mascarpone.",
+      "precio": "C$100"
+    },
+    {
+      "id": 5,
+      "nombre": "Pay de Limón",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPEfMAK5tz79bYzPdmmdtrDlHiclRjPddspQ&s",
+      "descripcion": "Pay refrescante de limón con base crujiente y un toque cítrico.",
+      "precio": "C$100"
+    },
+    {
+      "id": 6,
+      "nombre": "Cupcake de Vainilla",
+      "imagen": "https://i.pinimg.com/736x/12/47/14/124714a81c1998fdf374d1e071e8124c.jpg",
+      "descripcion": "Cupcake esponjoso de vainilla con betún cremoso y decorado artesanal.",
+      "precio": "C$100"
+    }
+  ]
+}

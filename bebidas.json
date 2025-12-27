@@ -1,0 +1,25 @@
+{
+  "bebidas": [
+    {
+      "id": 1,
+      "nombre": "Limonada Natural",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5_E_fsCTMfI6GX9J6k_zgZhx9ov7LQyVugA&s",
+      "descripcion": "Refrescante limonada preparada con limón natural y un toque de azúcar.",
+      "precio": "$35.00"
+    },
+    {
+      "id": 2,
+      "nombre": "Té Helado de Durazno",
+      "imagen": "https://www.gastrolabweb.com/u/fotografias/m/2023/6/22/f850x638-48606_126095_4661.jpg",
+      "descripcion": "Té negro frío infusionado con durazno, ligeramente dulce y refrescante.",
+      "precio": "$40.00"
+    },
+    {
+      "id": 3,
+      "nombre": "Café Frappé",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMEHNCXg6Kh7bl1n-vOmWkEF7_xittPw4K7g&s",
+      "descripcion": "Café frío licuado con hielo y leche, ideal para días calurosos.",
+      "precio": "$55.00"
+    }
+  ]
+}

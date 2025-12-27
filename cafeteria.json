@@ -1,0 +1,53 @@
+{
+  "cafeteria": [
+    {
+      "id": 1,
+      "nombre": "Café Americano",
+      "imagen": "https://www.somoselcafe.com.ar/img/novedades/47.jpg",
+      "descripcion": "Café negro preparado con granos recién molidos, de sabor intenso y aroma profundo.",
+      "precio": "C$100"
+    },
+    {
+      "id": 2,
+      "nombre": "Capuchino",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHvKHKSY3gt9Ngk8jbhqqMkWK_TefIUVPY_w&s",
+      "descripcion": "Café espresso con leche vaporizada y espuma cremosa, espolvoreado con cacao.",
+      "precio": "C$100"
+    },
+    {
+      "id": 3,
+      "nombre": "Latte Vainilla",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTINHJIaoUdVROPE-0uVVS10ZtqHiYr_Z5LFQ&s",
+      "descripcion": "Espresso suave combinado con leche caliente y un toque dulce de vainilla.",
+      "precio": "C$100"
+    },
+    {
+      "id": 4,
+      "nombre": "Té Chai",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYT3arA4x-EGD8l4LeET1QoGl4L6dVk9AReQ&s",
+      "descripcion": "Infusión especiada con canela, cardamomo y clavo, servida con leche caliente.",
+      "precio": "C$100"
+    },
+    {
+      "id": 5,
+      "nombre": "Chocolate Caliente",
+      "imagen": "https://familiakitchen.com/wp-content/uploads/2021/08/iStock-1224082700-hot-chocolate-v2.jpg",
+      "descripcion": "Bebida cremosa de chocolate oscuro, perfecta para días fríos.",
+      "precio": "C$100"
+    },
+    {
+      "id": 6,
+      "nombre": "Croissant de Mantequilla",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYTMD0PV3vKSg3ZH7fDTfIPgbymHkAUi46qA&s",
+      "descripcion": "Pan hojaldrado, dorado y crujiente por fuera, suave por dentro.",
+      "precio": "C$100"
+    },
+    {
+      "id": 7,
+      "nombre": "Muffin de Arándanos",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIjldGit1nrAhNn8ajjYYU-D-FgZNDmTtaDw&s",
+      "descripcion": "Muffin esponjoso relleno de arándanos frescos y ligeramente dulce.",
+      "precio": "C$100"
+    }
+  ]
+}

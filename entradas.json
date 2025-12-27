@@ -1,0 +1,25 @@
+{
+  "entradas": [
+    {
+      "id": 1,
+      "nombre": "Guacamole con Totopos",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrC968LeH7d0BUeep-tcQJJueL-w6D5_7kIg&s",
+      "descripcion": "Guacamole fresco preparado al momento, acompañado de totopos crujientes.",
+      "precio": "$65.00"
+    },
+    {
+      "id": 2,
+      "nombre": "Queso Fundido",
+      "imagen": "https://cdn-ilddihb.nitrocdn.com/MgqZCGPEMHvMRLsisMUCAIMWvgGMxqaj/assets/images/optimized/rev-b56f8d8/www.goya.com/wp-content/uploads/2023/10/queso-fundido-900x900.jpg",
+      "descripcion": "Queso derretido servido caliente, ideal para compartir.",
+      "precio": "$75.00"
+    },
+    {
+      "id": 3,
+      "nombre": "Papas Gajo",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8Zd03Qy3UaMgKCzvrrYnf-KysN2-csoFbew&s",
+      "descripcion": "Papas gajo sazonadas con especias y acompañadas de aderezo de la casa.",
+      "precio": "$60.00"
+    }
+  ]
+}
