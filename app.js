@@ -108,6 +108,7 @@ function seeDetails(){
     menu.forEach(plato => {
       if(plato.id.toString().trim() === cardId.toString().trim()){
         const card = `<article id="${plato.id}" class="card__info">
+            <button id="back" class="back"> < </button>
             <header class="card__info__image">
                 <img src="${plato.imagen}" alt="Imagen del platillo">
             </header>
@@ -116,13 +117,22 @@ function seeDetails(){
             <p class="card__info__price"><strong>Precio: </strong>${plato.precio}</p>
         </article>`;
      body.innerHTML = card;
-      }
+     history.pushState({ view: "details" }, "", "#details");
+     const back = document.getElementById('back');
+     back.addEventListener('click', () =>{
+      location.reload();
+     });
+    }
   });
 })
   .catch(error => {
     console.error("Hubo un problema:", error);
   });
 }
+
+window.addEventListener('popstate', () =>{
+      location.reload();
+     })
 
 
 

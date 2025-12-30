@@ -2,6 +2,7 @@
     --soft-green: #396685;
     --cream-white: #e2d7b9;
     --cream-clear: #e2dccc;
+    --cream-clear-clear: #e2dccc80;
     --white: #eee3e3;
     --gray: #333;
 }
@@ -159,6 +160,7 @@ body{
     align-items: center;
     padding: 10px;
     gap: 10px;
+    position: relative;
 }
 
 .card__info__image{
@@ -188,4 +190,16 @@ body{
     color: var(--soft-green);
     font-size: 1.2rem;
     text-align: center;
+}
+
+.back{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 50px;
+    border: none;
+    background-color: var(--cream-clear-clear);
+    color: var(--soft-green);
+    font-size: 2rem;
+    font-weight: bold;
 }
